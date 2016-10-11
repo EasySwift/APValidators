@@ -3,7 +3,7 @@
 // Copyright (c) 2015 Alterplay. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @class APValidator;
 
